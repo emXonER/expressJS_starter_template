@@ -20,7 +20,7 @@ This template includes TypeScript, environment variable management, request logg
 ## 📂 Project Structure
 
 ```
-expressJs_starter_template/
+expressJS_starter_template/
 │── prisma/              # Prisma schema & migrations
 │── src/
 │   ├── controllers/     # Route controllers
@@ -43,8 +43,8 @@ expressJs_starter_template/
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/emXonER/expressJs_starter_template.git
-   cd expressJs_starter_template
+   git clone https://github.com/emXonER/expressJS_starter_template.git
+   cd expressJS_starter_template
    ```
 
 2. Install dependencies:
