@@ -86,7 +86,7 @@ expressJs_starter_template/
 Example route:
 
 ```http
-GET /api/health
+GET /health
 ```
 
 Response:
